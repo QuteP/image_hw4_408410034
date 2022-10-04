@@ -16,16 +16,16 @@ Platform:
 
   上面是原圖，左下是在LoG處理的結果，右下是Sobel處理的結果。
 
-  <img src="D:\Document\學習相關\學校課程\大學\舊主要科目\影像處理\作業\result\Figure_1.png" alt="Figure_1" width=50% height=50% />
+  <img src="https://github.com/QuteP/image_hw4_408410034/blob/main/result/Figure_1.png" alt="Figure_1" width=50% height=50% />
 
 - image2.py：
 
   上面是原圖，左下是在LoG處理的結果，右下是Sobel處理的結果。
 
-  <img src="D:\Document\學習相關\學校課程\大學\舊主要科目\影像處理\作業\result\Figure_2.png" alt="Figure_2" width=50% height=50% />
+  <img src="https://github.com/QuteP/image_hw4_408410034/blob/main/result/Figure_2.png" alt="Figure_2" width=50% height=50% />
 
 - image3.py：
 
   上面是原圖，左下是在LoG處理的結果，右下是Sobel處理的結果。
 
-  <img src="D:\Document\學習相關\學校課程\大學\舊主要科目\影像處理\作業\result\Figure_3.png" alt="Figure_3" width=50% height=50% />
+  <img src="https://github.com/QuteP/image_hw4_408410034/blob/main/result/Figure_3.png" alt="Figure_3" width=50% height=50% />
